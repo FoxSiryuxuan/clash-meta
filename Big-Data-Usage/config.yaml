@@ -1,1 +1,3 @@
-
+payload:
+  - DOMAIN,object.github.com
+  - DOMAIN,dl.google.com
