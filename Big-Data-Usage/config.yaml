@@ -3,7 +3,7 @@ payload:
   # Download
   - DOMAIN,object.github.com
   - DOMAIN,dl.google.com
-  - gvt1.com
+  - DOMAIN-SUFFIX,gvt1.com
   
   # Emby
   - DOMAIN,emby,aca.best
