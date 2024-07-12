@@ -10,3 +10,5 @@ payload:
   # Emby
   - DOMAIN,emby,aca.best
   - DOMAIN,porn.aca.best
+  - DOMAIN-SUFFIX,imetyou.top
+  
