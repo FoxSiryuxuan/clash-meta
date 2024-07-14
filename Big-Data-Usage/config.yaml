@@ -12,3 +12,6 @@ payload:
   - DOMAIN,porn.aca.best
   - DOMAIN-SUFFIX,imetyou.top
   
+  # Video
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,ttvnw.net
