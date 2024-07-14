@@ -18,3 +18,6 @@ payload:
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,redditmedia.com
+
+  # VR Chat
+  - DOMAIN,files.vrchat.cloud
