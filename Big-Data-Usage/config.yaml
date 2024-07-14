@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN,packages.chocolatey.org
   - DOMAIN,download.visualstudio.microsoft.com
+  - DOMAIN-SUFFIX,archive.org
   
   # Emby
   - DOMAIN,emby,aca.best
