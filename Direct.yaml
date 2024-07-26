@@ -1,1 +1,4 @@
+payload:
 
+  ## Epic Games Download
+  - DOMAIN-SUFFIX,egdownload.fastly-edge.com
