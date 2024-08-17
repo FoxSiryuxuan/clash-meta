@@ -23,3 +23,6 @@ payload:
 
   # VR Chat
   - DOMAIN,files.vrchat.cloud
+
+  # Pixiv
+  - DOMAIN-SUFFIX,pximg.net
