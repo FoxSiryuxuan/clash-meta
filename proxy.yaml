@@ -1,2 +1,4 @@
-## Microsoft
-- DOMAIN,learn.microsoft.com
+payload:
+  ## Microsoft
+  - DOMAIN,learn.microsoft.com
+  - DOMAIN,answers.microsoft.com
