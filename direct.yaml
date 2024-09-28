@@ -2,6 +2,7 @@ payload:
 
   ## Epic Games Download
   - DOMAIN-SUFFIX,egdownload.fastly-edge.com
+  - DOMAIN-SUFFIX,fastly-download.epicgames.com
 
   ## VRChat Direct
   - DOMAIN,v.dm5.fun
