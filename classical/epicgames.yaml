@@ -1,4 +1,7 @@
 payload:
+
+    # https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/epicgames.yaml
+    
     - DOMAIN-SUFFIX,battlebreakers.com
     - DOMAIN-SUFFIX,eac-cdn.com
     - DOMAIN-SUFFIX,easy.ac
