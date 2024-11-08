@@ -1,4 +1,7 @@
 payload:
+
+    # https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/steam@cn.yaml
+    
     - DOMAIN-SUFFIX,steamcontent.com
     - DOMAIN-SUFFIX,steamserver.net
     - DOMAIN-SUFFIX,steamusercontent.com
