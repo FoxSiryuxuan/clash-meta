@@ -1,4 +1,3 @@
 payload:
-  ## Microsoft
-  - DOMAIN,learn.microsoft.com
-  - DOMAIN,answers.microsoft.com
+  ## GSTATIC
+  - DOMAIN-SUFFIX,gstatic.com
