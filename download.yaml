@@ -1,12 +1,13 @@
 payload:
 
-  - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN,files.vrchat.cloud
-  - DOMAIN-SUFFIX,mjedge.net
   - DOMAIN,pf-cdn-content-prod.azureedge.net
   - DOMAIN,flybywirecdn.com
   - DOMAIN,1424104733.rsc.cdn77.org
   - DOMAIN,objects.githubusercontent.com
-  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN,file-variants.vrchat.cloud
-  - DOMAIN-KEYWORD,download
+  - DOMAIN,prod.mcdn.robertsspaceindustries.com
+  
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,mjedge.net
+  - DOMAIN-SUFFIX,cloudflarestorage.com
