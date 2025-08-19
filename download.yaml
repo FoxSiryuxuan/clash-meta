@@ -7,6 +7,7 @@ payload:
   - DOMAIN,objects.githubusercontent.com
   - DOMAIN,file-variants.vrchat.cloud
   - DOMAIN,prod.mcdn.robertsspaceindustries.com
+  - DOMAIN,international-gfe.download.nvidia.com
   
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,mjedge.net
