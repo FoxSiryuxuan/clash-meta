@@ -1,4 +1,5 @@
 payload:
 
   ## Epic Games Download
+  - DOMAIN,epicgames-download1.akamaized.net
   - DOMAIN,egdownload.fastly-edge.com
