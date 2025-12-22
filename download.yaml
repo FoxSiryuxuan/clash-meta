@@ -9,6 +9,5 @@ payload:
   - DOMAIN,prod.mcdn.robertsspaceindustries.com
   - DOMAIN,international-gfe.download.nvidia.com
   
-  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,mjedge.net
   - DOMAIN-SUFFIX,cloudflarestorage.com
