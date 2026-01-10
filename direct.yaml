@@ -1,5 +1,9 @@
 payload:
 
+  ## Steam CDN
+  - DOMAIN-SUFFIX, cm.steampowered.com, DIRECT
+  - DOMAIN-SUFFIX, steamserver.net, DIRECT
+  
   ## Epic Games Download
   - DOMAIN,epicgames-download1.akamaized.net
   - DOMAIN,egdownload.fastly-edge.com
