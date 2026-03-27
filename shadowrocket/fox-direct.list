@@ -1,6 +1,7 @@
 
 #小黑盒
 DOMAIN-SUFFIX,max-c.com
+
 # Steam CDN
 DOMAIN-SUFFIX, cm.steampowered.com, DIRECT
 DOMAIN-SUFFIX, steamserver.net, DIRECT
