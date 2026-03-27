@@ -4,8 +4,8 @@ payload:
   - DOMAIN-SUFFIX,max-c.com
   
   ## Steam CDN
-  - DOMAIN-SUFFIX, cm.steampowered.com, DIRECT
-  - DOMAIN-SUFFIX, steamserver.net, DIRECT
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
   
   ## Epic Games Download
   - DOMAIN,epicgames-download1.akamaized.net
